@@ -10,3 +10,5 @@ UI Guidelines:
 * Enhance user convenience by making all crucial interactions require as few steps as possible.
 * Give an option to increase font size for users with visibility impairments
 * Choose colors that allow users with color-blindness to still have a calming experience
+
+Created by: Audrey Mock and Shreya Kochar
